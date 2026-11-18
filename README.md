@@ -24,6 +24,6 @@
 
 ### 📊 GitHub Stats:
 
-[Salman Mahar GitHub stats](https://github-readme-stats.vercel.app/api?username=Salman-Mahar&show_icons=true&theme=tokyonight&hide_border=true)
+![Salman Mahar GitHub stats](https://github-readme-stats.vercel.app/api?username=Salman-Mahar&show_icons=true&theme=tokyonight&hide_border=true)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Mahar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Mahar&layout=compact&theme=tokyonight&hide_border=true)
