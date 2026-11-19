@@ -1,29 +1,66 @@
+<div align="center">
+
 # Hi 👋, I'm Salman Mahar
+### AIOps Engineer | Learner | Tech Enthusiast
 
-> Passionate about Linux & Automation | Building small tools with Python & Bash
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+about+Linux+%26+Automation;Building+Tools+with+Python+%26+Bash;Learning+AWS+%26+AIOps;Learn+%7C+Automate+%7C+Innovate)
 
-### 🧑‍💻 About Me
-- 🐧 Linux Lover - Arch / Ubuntu / Debian
-- 🐍 Python & Shell Scripting
-- ☁️ Learning AWS & AIOps
-- 🛠️ I love automating boring tasks
+[Profile Views](https://komarev.com/ghpvc/?username=Salman-Mahar&color=00F7FF&style=for-the-badge)
+[Followers](https://img.shields.io/github/followers/Salman-Mahar?label=Followers&style=for-the-badge&color=blue)
+[Stars](https://img.shields.io/github/stars/Salman-Mahar?affiliations=OWNER&style=for-the-badge&color=yellow)
 
-### 🛠️ Tech Stack
-`Linux` `Bash` `Python` `Shell Scripting` `AWS` `Git` `Docker`
-
-### 📌 Featured Projects
-- **Linux Automation Toolkit** - System monitor, cleanup & backup tools
-- **Python Automation Scripts** - Daily tasks automation
-
-### 📫 Connect With Me
-- GitHub: [@Salman-Mahar](https://github.com/Salman-Mahar)
+</div>
 
 ---
-> "Automate everything you do twice."
 
+### 👨‍💻 About Me
 
-### 📊 GitHub Stats:
+- 🐧 **Linux Lover** - Arch / Ubuntu / Debian
+- 🐍 **Python & Shell Scripting** - Automation Expert
+- ☁️ **Learning AWS & AIOps** - Cloud + AI + Operations
+- 🛠️ I love automating boring tasks
+- 🚀 **Mission:** Learn | Automate | Innovate
+- 🌱 Always Learning, Always Growing
 
-![Salman Mahar GitHub stats](https://github-readme-stats.vercel.app/api?username=Salman-Mahar&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Mahar&layout=compact&theme=tokyonight&hide_border=true)
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+[AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🔧 Tools
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔧 **Linux Automation Toolkit** | System monitor, cleanup & backup tools | Bash, Linux |
+| 🐍 **Python Automation Scripts** | Daily tasks automation | Python |
+| ☁️ **AWS Learning Projects** | Cloud practice & experiments | AWS |
+| 🤖 **AIOps Experiments** | AI + IT Operations projects | Python, AIOps |
+
+---
+
+### 🎯 Current Goals - 2026
+
+- [ ] ☁️ AWS Certified
+- [ ] 🐳 Master Docker & Kubernetes
+- [ ] 🤖 Build 5+ AIOps Tools
+- [ ] 🐧 Contribute to Open Source
+- [ ] 📚 100+ Automation Scripts
+
+### 🌱 What I'm Learning
